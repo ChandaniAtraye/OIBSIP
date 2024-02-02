@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                 <img src="/m.jpg" height="60">
+            </div>
+            <div class="menu">
+                <a href="#"> Home</a>
+                <a href="#"> Features</a>
+                <a href="#"> About </a>
+                <a href="#"> Contacts </a>
+
+            </div>
+            <div class="register">
+                <a href="#"> Sign In </a>
+            </div>
+        </nav>
+        <div class="box" >
+            <input  type="text" placeholder="Search for title,author,publisher" >
+        
+        <button> Search </button>
+        </div>
+    </header>
+
+
+        <!--Services-->
+     <div class="services">
+
+        <div class="services_box">
+            <div class="services_card">
+                <i class="fa-solid fa-truck-fast"> </i>
+                <h3> Fast Delivery</h3>
+                <p>
+                    Lorem ipsum dolor, sit ametest saepe iste cupiditate voluptatem, deserunt optio incidunt quas dicta.
+                </p>
+            </div>
+            <div class="services_card">
+                <i class="fa-solid fa-headset"> </i>
+                <h3>24 * 7 services</h3>
+                <p>
+                    Lorem ipsum dolor, sit ametest saepe iste cupiditate voluptatem, deserunt optio incidunt quas dicta.
+                </p>
+            </div>
+            <div class="services_card">
+                <i class="fa-solid fa-tag"> </i>
+                <h3> Best Deal </h3>
+                <p>
+                    Lorem ipsum dolor, sit ametest saepe iste cupiditate voluptatem, deserunt optio incidunt quas dicta.
+                </p>
+            </div>
+            <div class="services_card">
+                <i class="fa-solid fa-lock"> </i>
+                <h3>Secure Payment</h3>
+                <p>
+                    Lorem ipsum dolor, sit amet conationem soluta illum dolores labore est saepe iste cupiditate voluptatem, deserunt optio  dicta.
+                </p>
+            </div>
+        </div>
+             
+    </div>
+    
+
+
+    <!--about-->
+
+    <div class="about">
+        <div class="about_image">
+            <img src="/about..jpg">
+        </div>
+        <div class="about_tag">
+            <h1> About Us </h1>
+                <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam non, quia veritatis id labore aliquid? Sit rem eveniet commodi aspernatur quos tempora quaerat aut facilis, ex error, a optio perspiciatis. Lorem ipsum dolor, sit amet consectetur adesentium placeat assumenda eaque deleniti officiis! Esse, architecto.</p>
+                <a href="#" class="about_btn">Learn More</a>
+            
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!--Books-->
+
+
+
+    <div class="featured_books">
+        <h1> Featured Books</h1>
+        <div class="featured_book_box">
+         <div class="featured_book_card">
+              <div class="featured_book_img">
+                <img src="/img1.jpg">
+
+              </div>
+             <div class="featured_book_tag">
+                <h2> Featured Books</h2>
+                <p class="writer">Sandhya Menon</p>
+                <div class="categories">Thriller,Horror,Romance</div>
+                <p class="book_price">$25.50<sub><del>$28.60</del></sub></p>
+                <a href="#" class="f_btn"> Learn More</a>
+             </div>
+          </div>
+
+          <div class="featured_book_card">
+            <div class="featured_book_img">
+              <img src="/img.2.jpg">
+
+            </div>
+           <div class="featured_book_tag">
+              <h2> Featured Books</h2>
+              <p class="writer">John DEO</p>
+              <div class="categories">Thriller,Horror,Romance</div>
+              <p class="book_price">$25.50<sub><del>$28.60</del></sub></p>
+              <a href="#" class="f_btn"> Learn More</a>
+           </div>
+        </div>
+        <div class="featured_book_card">
+            <div class="featured_book_img">
+              <img src="/img.3.jpg">
+
+            </div>
+           <div class="featured_book_tag">
+              <h2> Featured Books</h2>
+              <p class="writer">John DEO</p>
+              <div class="categories">Thriller,Horror,Romance</div>
+              <p class="book_price">$25.50<sub><del>$28.60</del></sub></p>
+              <a href="#" class="f_btn"> Learn More</a>
+           </div>
+        </div>
+        <div class="featured_book_card">
+            <div class="featured_book_img">
+              <img src="/sky.jpg">
+
+            </div>
+           <div class="featured_book_tag">
+              <h2> Featured Books</h2>
+              <p class="writer">John DEO</p>
+              <div class="categories">Thriller,Horror,Romance</div>
+              <p class="book_price">$25.50<sub><del>$28.60</del></sub></p>
+              <a href="#" class="f_btn"> Learn More</a>
+           </div>
+        </div>
+        <div class="featured_book_card">
+            <div class="featured_book_img">
+              <img src="/cvvv.jpg">
+
+            </div>
+           <div class="featured_book_tag">
+              <h2> Featured Books</h2>
+              <p class="writer">John DEO</p>
+              <div class="categories">Thriller,Horror,Romance</div>
+              <p class="book_price">$25.50<sub><del>$28.60</del></sub></p>
+              <a href="#" class="f_btn"> Learn More</a>
+           </div>
+        </div>
+
+
+
+
+      </div>
+ </div>
+
+    
+</body>
+</html>
